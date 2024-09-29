@@ -40,7 +40,7 @@ B) flutter build
 C) flutter run
 D) flutter init
 
-B
+C
 
 #Python Installation
 
@@ -51,7 +51,7 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
-C
+B
 
 Which option should you ensure is checked during Python installation on Windows?
 
@@ -60,7 +60,7 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 
-A
+C
 
 How do you verify Python installation on any system?
 
@@ -69,7 +69,7 @@ B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
-C
+A
 
 What command is used to install pip on macOS and Linux?
 
@@ -87,7 +87,7 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
-B
+C
 
 #MySQL Installation
 
@@ -98,7 +98,7 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 
-D
+B
 
 What setup type should you choose for a custom MySQL installation?
 
@@ -107,7 +107,7 @@ B) Server Only
 C) Full
 D) Custom
 
-A
+D
 
 Which products should you select during the MySQL installation?
 
@@ -116,7 +116,7 @@ B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
 
-B
+A
 
 What is the purpose of setting a root password during MySQL installation?
 
@@ -133,3 +133,5 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+B
